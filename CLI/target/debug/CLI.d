@@ -1,0 +1,1 @@
+/home/salman/learning/codehub/forLearning/rust/last-firm-step/rust-multi-projects/CLI/target/debug/CLI: /home/salman/learning/codehub/forLearning/rust/last-firm-step/rust-multi-projects/CLI/src/main.rs
